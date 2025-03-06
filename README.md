@@ -31,10 +31,19 @@ This tutorial outlines the process of managing accounts through "Group Policy".<
 
 
 <p>
+<img src="https://github.com/user-attachments/assets/22bf1ea4-38bc-40c0-a89e-01fe00b7790b" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/b6ab9c2b-8bee-43a8-a102-cfed05d5e38d" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/aea31472-71b8-4a42-a388-88a3c8c9e622" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/fc9c3773-e97f-4eaa-948a-43b986bcab4b" height="80%" width="80%" />
 <img src="" height="80%" width="80%" />
+<img src="" height="80%" width="80%" />
+<img src="" height="80%" width="80%" />
+<img src="" height="80%" width="80%" />
+<img src="" height="80%" width="80%" />
+  
 </p>
 <p>
-First we're going to configure domain password lockout policy for Active Directory using group policy editor.
+First we're going to configure domain password lockout policy for Active Directory using Group Policy editor.
 </p>
 <br />
 
