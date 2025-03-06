@@ -83,7 +83,7 @@ Observe that the account has been locked within Active Directory.
 
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/20e906f0-0b61-438b-a795-748b74f3b46b" height="80%" width="80%" />
 </p>
 <p>
 Unlock the account.
