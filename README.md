@@ -72,7 +72,8 @@ Next, we will attempt to log in 10 times with a bad password.
 <br />
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/8615b92e-71bd-4f64-ae5f-2a032c59065b" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/adb7253f-a4ab-4438-a398-188a73dc5d15" height="80%" width="80%" />
 </p>
 <p>
 Observe that the account has been locked within Active Directory.
