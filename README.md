@@ -83,6 +83,19 @@ Observe that the account has been locked within Active Directory.
 
 
 <p>
+<img src="https://github.com/user-attachments/assets/22ac5e35-537e-430d-a1e8-88ca644985d7" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/59270e72-cdb8-4b9c-9785-7cb6940418e3" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/de42b606-be90-4c02-8225-83aef1e520a6" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/19142556-0f68-4ed0-8a4b-86eea9c47496" height="80%" width="80%" />
+</p>
+<p>
+Reset the password.
+</p>
+<br />
+
+
+
+<p>
 <img src="https://github.com/user-attachments/assets/20e906f0-0b61-438b-a795-748b74f3b46b" height="80%" width="80%" />
 </p>
 <p>
