@@ -139,7 +139,8 @@ Observe the logs in the domain controller. <br /> <br />
 
 <p>
 Observe the logs on the client PC. <br /> <br />
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/da952e0f-9e84-4a3d-a1df-a1f764900631" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/868222de-11ee-439e-82cd-d420df1cd8f5" height="80%" width="80%" />
 </p>
 <br />
 
