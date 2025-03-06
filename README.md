@@ -93,17 +93,7 @@ Unlock the account.
 
 
 <p>
-<img src="" height="80%" width="80%" />
-</p>
-<p>
-Reset the password.
-</p>
-<br />
-
-
-
-<p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/c9a892bd-0c1a-4396-bc0f-d203a8ec062e" height="80%" width="80%" />
 </p>
 <p>
 Log in with the unlocked account.
