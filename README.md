@@ -34,25 +34,32 @@ This tutorial outlines the process of managing accounts through "Group Policy".<
 <img src="https://github.com/user-attachments/assets/22bf1ea4-38bc-40c0-a89e-01fe00b7790b" height="80%" width="80%" />
 <img src="https://github.com/user-attachments/assets/b6ab9c2b-8bee-43a8-a102-cfed05d5e38d" height="80%" width="80%" />
 <img src="https://github.com/user-attachments/assets/aea31472-71b8-4a42-a388-88a3c8c9e622" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/fc9c3773-e97f-4eaa-948a-43b986bcab4b" height="80%" width="80%" />
-<img src="" height="80%" width="80%" />
-<img src="" height="80%" width="80%" />
-<img src="" height="80%" width="80%" />
-<img src="" height="80%" width="80%" />
-<img src="" height="80%" width="80%" />
-  
+<img src="https://github.com/user-attachments/assets/fc9c3773-e97f-4eaa-948a-43b986bcab4b" height="80%" width="80%" />  
 </p>
 <p>
-First we're going to configure domain password lockout policy for Active Directory using Group Policy editor.
+First, we're going to configure a domain password lockout policy for Active Directory using Group Policy editor.
 </p>
 <br />
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/35a22760-d1c3-433d-b663-a3068feba53b" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/7592f75b-8938-497d-9bd1-0e6b576c3113" height="80%" width="80%" />
+</p>
+<p>
+Now, we will log in as the administrator to force the policy to update so we don't have to wait for the automatic 90-minute policy update time window.
+</p>
+<br />
+
+
 
 
 <p>
 <img src="https://github.com/user-attachments/assets/267217b4-67ae-4e4c-90b1-ff0521552cbe" height="80%" width="80%" />
 </p>
 <p>
-Then we'll pick a random user account that was previously created.
+Then, we'll pick a random user account that was previously created.
 </p>
 <br />
 
@@ -68,7 +75,7 @@ Next, we will attempt to log in 10 times with a bad password.
 <img src="" height="80%" width="80%" />
 </p>
 <p>
-Observe the account has been locked within Active Directory.
+Observe that the account has been locked within Active Directory.
 </p>
 <br />
 
