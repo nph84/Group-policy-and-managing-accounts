@@ -32,10 +32,10 @@ This tutorial outlines the process of managing accounts through "Group Policy".<
 
 <p>
 First, we're going to configure a domain password lockout policy for Active Directory using Group Policy editor. <br /> <br />
-  <img src="https://github.com/user-attachments/assets/22bf1ea4-38bc-40c0-a89e-01fe00b7790b" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/b6ab9c2b-8bee-43a8-a102-cfed05d5e38d" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/aea31472-71b8-4a42-a388-88a3c8c9e622" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/fc9c3773-e97f-4eaa-948a-43b986bcab4b" height="80%" width="80%" />  
+  <img src="https://github.com/user-attachments/assets/22bf1ea4-38bc-40c0-a89e-01fe00b7790b" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/b6ab9c2b-8bee-43a8-a102-cfed05d5e38d" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/aea31472-71b8-4a42-a388-88a3c8c9e622" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/fc9c3773-e97f-4eaa-948a-43b986bcab4b" height="80%" width="80%" /> <br /> <br />
 </p>
 <br />
 
@@ -43,8 +43,8 @@ First, we're going to configure a domain password lockout policy for Active Dire
 
 <p>
 Now, we will log in as the administrator to force the policy to update so we don't have to wait for the automatic 90-minute policy update time window. <br /> <br />
-<img src="https://github.com/user-attachments/assets/35a22760-d1c3-433d-b663-a3068feba53b" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/7592f75b-8938-497d-9bd1-0e6b576c3113" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/35a22760-d1c3-433d-b663-a3068feba53b" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/7592f75b-8938-497d-9bd1-0e6b576c3113" height="80%" width="80%" /> <br /> <br />
 Now, we will log in as the administrator to force the policy to update so we don't have to wait for the automatic 90-minute policy update time window.
 </p>
 <br />
@@ -54,13 +54,13 @@ Now, we will log in as the administrator to force the policy to update so we don
 
 <p>
 Then, we'll pick a random user account that was previously created. <br /> <br />
-<img src="https://github.com/user-attachments/assets/267217b4-67ae-4e4c-90b1-ff0521552cbe" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/267217b4-67ae-4e4c-90b1-ff0521552cbe" height="80%" width="80%" /> <br /> <br />
 </p>
 <br />
 
 <p>
 Next, we will attempt to log in 10 times with a bad password. <br /> <br />
-<img src="https://github.com/user-attachments/assets/d9912e62-f2a8-4079-aff2-b18d30315427" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/d9912e62-f2a8-4079-aff2-b18d30315427" height="80%" width="80%" /> <br /> <br />
 </p>
 <br />
 
@@ -68,8 +68,8 @@ Next, we will attempt to log in 10 times with a bad password. <br /> <br />
 
 <p>
 Observe that the account has been locked within Active Directory. <br /> <br />
-<img src="https://github.com/user-attachments/assets/8615b92e-71bd-4f64-ae5f-2a032c59065b" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/adb7253f-a4ab-4438-a398-188a73dc5d15" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/8615b92e-71bd-4f64-ae5f-2a032c59065b" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/adb7253f-a4ab-4438-a398-188a73dc5d15" height="80%" width="80%" /> <br /> <br />
 </p>
 <br />
 
@@ -77,10 +77,10 @@ Observe that the account has been locked within Active Directory. <br /> <br />
 
 <p>
 Reset the password. <br /> <br />
-<img src="https://github.com/user-attachments/assets/22ac5e35-537e-430d-a1e8-88ca644985d7" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/59270e72-cdb8-4b9c-9785-7cb6940418e3" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/de42b606-be90-4c02-8225-83aef1e520a6" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/19142556-0f68-4ed0-8a4b-86eea9c47496" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/22ac5e35-537e-430d-a1e8-88ca644985d7" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/59270e72-cdb8-4b9c-9785-7cb6940418e3" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/de42b606-be90-4c02-8225-83aef1e520a6" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/19142556-0f68-4ed0-8a4b-86eea9c47496" height="80%" width="80%" /> <br /> <br />
 </p>
 
 <br />
@@ -139,10 +139,13 @@ Observe the logs in the domain controller. <br /> <br />
 
 <p>
 Observe the logs on the client PC. <br /> <br />
-<img src="https://github.com/user-attachments/assets/da952e0f-9e84-4a3d-a1df-a1f764900631" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/868222de-11ee-439e-82cd-d420df1cd8f5" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/da952e0f-9e84-4a3d-a1df-a1f764900631" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/868222de-11ee-439e-82cd-d420df1cd8f5" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/b39b569d-4b86-45c0-9031-59d8ce5ad633" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/5586c28c-eb84-4644-932a-3511d4c8b860" height="80%" width="80%" /> <br /> <br />
+<img src="https://github.com/user-attachments/assets/fb1d90b0-b720-4c8f-bab2-2a72a699138c" height="80%" width="80%" />
 </p>
-<br />
+
 
 
 
