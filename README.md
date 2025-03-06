@@ -27,26 +27,173 @@ This tutorial outlines the process of managing accounts through "Group Policy".<
 
 <h2>Deployment and Configuration Steps</h2>
 
+**Dealing with account lockouts**
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First we're going to pick a random user account that was previously created.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will attempt to log in 10 times with a bad password.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Observe the account has been locked within Active Directory.
 </p>
 <br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Unlock the account.
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Reset the password.
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Log in with the unlocked account.
+</p>
+<br />
+
+---------
+
+**Enabling and disabling accounts**
+
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Disable the same account in Active Directory.
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Attempt to log in with the disabled account while observing the error message.
+</p>
+<br />
+
+
+------------------
+
+**Observing Logs**
+
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Observe the logs in the domain controller.
+</p>
+<br />
+
+
+
+
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Observe the logs on the client PC.
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
