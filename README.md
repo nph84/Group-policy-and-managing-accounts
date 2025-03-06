@@ -29,16 +29,26 @@ This tutorial outlines the process of managing accounts through "Group Policy".<
 
 **Dealing with account lockouts**
 
+
 <p>
 <img src="" height="80%" width="80%" />
 </p>
 <p>
-First we're going to pick a random user account that was previously created.
+First we're going to configure domain password lockout policy for Active Directory using group policy editor.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/267217b4-67ae-4e4c-90b1-ff0521552cbe" height="80%" width="80%" />
+</p>
+<p>
+Then we'll pick a random user account that was previously created.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/d9912e62-f2a8-4079-aff2-b18d30315427" height="80%" width="80%" />
 </p>
 <p>
 Next, we will attempt to log in 10 times with a bad password.
