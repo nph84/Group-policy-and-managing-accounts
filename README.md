@@ -126,7 +126,11 @@ Attempt to log in with the disabled account while observing the error message. <
 
 <p>
 Observe the logs in the domain controller. <br /> <br />
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/5408d894-52a0-479c-b43c-2f63a8529889" height="80%" width="80%" />
+<br /> <br />
+<img src="https://github.com/user-attachments/assets/75378c93-146a-4c3b-97e7-f0094b87bc1b" height="80%" width="80%" />
+<br /> <br />
+<img src="https://github.com/user-attachments/assets/f7bf9cd3-88f3-4b4f-9683-0ebe74e3aab8" height="80%" width="80%" />
 </p>
 <br />
 
